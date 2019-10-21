@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateRepo", "CreateRepo\CreateRepo.csproj", "{8FA02C45-95C3-4590-A31E-C63431D41CFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomeNewShit", "SomeNewShit\SomeNewShit.csproj", "{BC3F73BE-C489-4976-B88B-59CE4C05BD5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -13,5 +15,9 @@ Global
 		{8FA02C45-95C3-4590-A31E-C63431D41CFD}.Debug|anycpu.Build.0 = Debug|anycpu
 		{8FA02C45-95C3-4590-A31E-C63431D41CFD}.Release|anycpu.ActiveCfg = Release|anycpu
 		{8FA02C45-95C3-4590-A31E-C63431D41CFD}.Release|anycpu.Build.0 = Release|anycpu
+		{BC3F73BE-C489-4976-B88B-59CE4C05BD5F}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{BC3F73BE-C489-4976-B88B-59CE4C05BD5F}.Debug|anycpu.Build.0 = Debug|anycpu
+		{BC3F73BE-C489-4976-B88B-59CE4C05BD5F}.Release|anycpu.ActiveCfg = Release|anycpu
+		{BC3F73BE-C489-4976-B88B-59CE4C05BD5F}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 EndGlobal
