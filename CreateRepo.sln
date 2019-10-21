@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateRepo", "CreateRepo\CreateRepo.csproj", "{8FA02C45-95C3-4590-A31E-C63431D41CFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FA02C45-95C3-4590-A31E-C63431D41CFD}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{8FA02C45-95C3-4590-A31E-C63431D41CFD}.Debug|anycpu.Build.0 = Debug|anycpu
+		{8FA02C45-95C3-4590-A31E-C63431D41CFD}.Release|anycpu.ActiveCfg = Release|anycpu
+		{8FA02C45-95C3-4590-A31E-C63431D41CFD}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
